@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/triangle_ktamms/__init__.py
+src/triangle_ktamms/triangleArea.py
+src/triangle_ktamms.egg-info/PKG-INFO
+src/triangle_ktamms.egg-info/SOURCES.txt
+src/triangle_ktamms.egg-info/dependency_links.txt
+src/triangle_ktamms.egg-info/top_level.txt
